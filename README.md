@@ -1,5 +1,4 @@
-This repository containes frontend and backend to display dataset provides administrative boundaries of local authorities in England as provided by the office for
-National Statistics (ONS) using Mapbox.
+This repository contains both the frontend and backend to display a dataset that provides administrative boundaries of local authorities in England, as provided by the Office for National Statistics (ONS), using Mapbox.
 
 ## Installation
 Clone the repository:
